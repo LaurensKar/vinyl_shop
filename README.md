@@ -1,0 +1,1 @@
+This is the vinylshop project for the course Web Development in PHP for the student Laurens Karakolev.
